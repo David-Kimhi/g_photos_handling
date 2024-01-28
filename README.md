@@ -14,8 +14,8 @@ You'll need:
 - Some extra libraries: `piexif`, `tqdm` 
 
 ## How to Use It
-1. Get the script files git clone []
-2. Open your favorite python IDE and run the main.py file, with the path to where your google photos currently are.
+1. Get the script files (git clone [https://github.com/David-Kimhi/g_photos_handling.git])
+3. Open your favorite python IDE and run the main.py file, with the path to where your google photos currently are.
 
 ## Want to Help Make It Better?
 Great! feel free to contribute and suggest any good ideas
